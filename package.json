@@ -21,8 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "manul-ofc-baileys-new
-": "1.0.0",
+    "manul-ofc-baileys-new": "1.0.0",
     "awesome-phonenumber": "^7.4.0",
     "fs-extra": "^11.3.0",
     "megajs": "^1.3.7",
